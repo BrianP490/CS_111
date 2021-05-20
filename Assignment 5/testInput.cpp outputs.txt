@@ -1,0 +1,23 @@
+
+[perez490@empress CS111]$ ./a.out
+Enter an age: -1
+An age must be between 0 and 200. Enter again: 201
+An age must be between 0 and 200. Enter again: 0
+age = 0
+
+Enter a test score: -1
+A test score must be between 0 and 100. Enter again: 101
+A test score must be between 0 and 100. Enter again: 100
+score = 100
+
+Enter a test score: -0.01
+A GPA must be between 0.00 amd 4.00. Enter again: 4.01
+A GPA must be between 0.00 amd 4.00. Enter again: 3.55
+gpa = 3.55
+
+Are you a college student? Enter Y or N: A
+Your response must be uppercase Y or N. Enter again: y
+Your response must be uppercase Y or N. Enter again: n
+Your response must be uppercase Y or N. Enter again: Y
+ans = Y
+

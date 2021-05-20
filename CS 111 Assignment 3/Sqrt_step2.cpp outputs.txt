@@ -1,0 +1,29 @@
+SQRT_STEP2.CPP OUTPUTS
+
+
+
+[perez490@empress CS111]$ ./a.out
+Num = 8
+Top = 3
+Bottom = 2
+Top is closer to the square root of 8.
+
+[perez490@empress CS111]$ ./a.out
+Num = 10
+Top = 4
+Bottom = 3
+Bottom is closer to the square root of 10.
+
+[perez490@empress CS111]$ ./a.out
+Num = 25
+Top = 5
+Bottom = 4
+Top is closer to the square root of 25.
+
+[perez490@empress CS111]$ ./a.out
+Num = 777
+Top = 28
+Bottom = 27
+Top is closer to the square root of 777.
+
+[perez490@empress CS111]$

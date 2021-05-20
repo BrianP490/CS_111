@@ -1,0 +1,30 @@
+------------------------- combineArray() --------------------------------------------------------------
+Issac       Asimov      M           28.74       63948       58
+Humphry     Bogart      M           21.00       48482       56
+Albert      Einstein    M           11.65       47474       67
+James       Kirk        M           19.79       82828       46
+Ted         Kopple      M           23.36       37376       48
+David       Letterman   M           16.27       19338       47
+Monty       Python      M           35.02       80939       44
+Roger       Rabbit      M           15.75       91343       24
+Rod         Serling     M           58.27       93939       56
+Luke        Skywalker   M           20.95       12343       35
+Mike        Smith       M           24.52       10000       30
+Ada         Agusta      F           10.55       19569       28
+Emmylou     Harris      F           36.05       72647       38
+Stevis      Nicks       F           19.89       23459       38
+Sally       Ride        F           26.90       91123       30
+Kit         Ross        F           11.61       20000       21
+
+------------------------- findEmp() --------------------------------------------------------------
+Enter the employee id: 48482
+
+Humphry        Bogart
+
+------------------------- findEmp() --------------------------------------------------------------
+Enter the employee id: 11111
+
+There is no employee with ID 11111
+
+------------------------- sortEmployees() --------------------------------------------------------------
+Albert[perez490@empress CS111]$

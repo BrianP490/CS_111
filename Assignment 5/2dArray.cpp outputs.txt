@@ -1,0 +1,27 @@
+[perez490@empress CS111]$ ./a.out
+Enter scores for Test #1
+        Student #1: 45
+        Student #2: 78
+        Student #3: 86
+        Student #4: 78
+        Student #5: 67
+
+Enter scores for Test #2
+        Student #1: 67
+        Student #2: 88
+        Student #3: 96
+        Student #4: 77
+        Student #5: 57
+
+Enter scores for Test #3
+        Student #1: 78
+        Student #2: 56
+        Student #3: 78
+        Student #4: 67
+        Student #5: 57
+
+     Test#     Stu 1     Stu 2     Stu 3     Stu 4     Stu 5   Average
+         1        45        78        86        78        67      70.8
+         2        67        88        96        77        57      77.0
+         3        78        56        78        67        57      67.2
+   Average      63.3      74.0      86.7      74.0      60.3

@@ -1,0 +1,156 @@
+
+
+[perez490@empress CS111]$ ./a.out
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 1
+
+Enter a number: 10
+Enter a number: 8
+Enter a number: 16
+Enter a number: 40
+Enter a number: 5
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 4
+
+The average number is 15.8
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 5
+
+The highest number is 40
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 7
+
+Slot 0 : *
+Slot 1 :
+Slot 2 : *
+Slot 3 : ****
+Slot 4 :
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 6
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 2
+
+The numbers entered in the array are: 20 16 32 80 10
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 7
+
+Slot 0 : **
+Slot 1 : *
+Slot 2 : ***
+Slot 3 : ********
+Slot 4 : *
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 10
+
+Enter a key: 20
+
+20 was found at index 0
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 10
+
+Enter a key: 30
+
+30 was not found
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 8
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 2
+
+The numbers entered in the array are: 10 16 20 32 80
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 11
+
+Enter the key: 16
+
+16 was found at index 1
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 11
+
+Enter the key: 60
+
+60 was not found
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 9
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 2
+
+The numbers entered in the array are: 80 32 20 16 10
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 12
+
+Enter the key: 16
+
+16 was found at index 3
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 12
+
+Enter the key: 18
+
+18 was not found
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 14
+
+Invalid choice
+
+-----------------------------------------------------
+1)fill 2)print 3)reverse 4)average 5)highest 6)double 7)bar graph 8)selection sort ascending 9)selection sort descending 10)sequential search 11)binary search ascending 12)binary search descending 13)quit
+-----------------------------------------------------
+Enter your choice: 13
+
+Thank you for using our system.
+
+[perez490@empress CS111]$
+

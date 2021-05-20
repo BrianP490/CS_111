@@ -1,0 +1,23 @@
+
+
+[perez490@empress CS111]$ ./a.out
+Enter a number(N >= 0): -5
+Enter a number(N >= 0): -1
+Enter a number(N >= 0): -20
+Enter a number(N >= 0): 19
+91
+
+[perez490@empress CS111]$ ./a.out
+Enter a number(N >= 0): -3
+Enter a number(N >= 0): 5364281
+1824635
+
+[perez490@empress CS111]$ ./a.out
+Enter a number(N >= 0): 7
+7
+
+[perez490@empress CS111]$ ./a.out
+Enter a number(N >= 0): 0
+0
+
+[perez490@empress CS111]$

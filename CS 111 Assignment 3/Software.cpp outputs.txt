@@ -1,0 +1,73 @@
+Software.cpp test runs
+
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/27/16
+Enter your company name: Cal State San Marcos
+Enter the quantity you would like to purchase: -1
+
+Invalid quantity
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/27/16
+Enter your company name: Cal State San Marcos
+Enter the quantity you would like to purchase: 0
+
+Hope you decide to buy our software in the future.
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/27/16
+Enter your company name: Little Coffee shop
+Enter the quantity you would like to purchase: 1
+
+Invoice for Little Coffee shop
+
+Price before discount         $     99.00
+Discount                      $      0.00
+Total Due                     $     99.00
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/27/16
+Enter your company name: Little Coffee Shop
+Enter the quantity you would like to purchase: 10
+
+Invoice for Little Coffee Shop
+
+Price before discount         $    990.00
+Discount                      $    198.00
+Total Due                     $    792.00
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/27/16
+Enter your company name: Little Coffee shop
+Enter the quantity you would like to purchase: 20
+
+Invoice for Little Coffee shop
+
+Price before discount         $   1980.00
+Discount                      $    594.00
+Total Due                     $   1386.00
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/01/16
+Enter your company name: Little Coffee shop
+Enter the quantity you would like to purchase: 50
+
+Invoice for Little Coffee shop
+
+Price before discount         $   4950.00
+Discount                      $   1980.00
+Total Due                     $   2970.00
+
+[perez490@empress CS111]$ ./a.out
+Enter today's date (mm/dd/yy): 09/20/16
+Enter your company name: Little Coffee Shop
+Enter the quantity you would like to purchase: 100
+
+Invoice for Little Coffee Shop
+
+Price before discount         $   9900.00
+Discount                      $   4950.00
+Total Due                     $   4950.00
+
+[perez490@empress CS111]$

@@ -1,0 +1,22 @@
+
+
+[perez490@empress CS111]$ ./a.out Enter Num: 10
+Top is 4
+Bottom is 3
+
+[perez490@empress CS111]$ ./a.out
+Enter Num: 16
+Top is 4
+Bottom is 3
+
+[perez490@empress CS111]$ ./a.out
+Enter Num: 8
+Top is 3
+Bottom is 2
+
+[perez490@empress CS111]$ ./a.out
+Enter Num: 777
+Top is 28
+Bottom is 27
+
+[perez490@empress CS111]$

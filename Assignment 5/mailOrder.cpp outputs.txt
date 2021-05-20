@@ -1,0 +1,139 @@
+[perez490@empress CS111]$ g++ mailOrder.cpp
+[perez490@empress CS111]$ ./a.out
+Enter an account number: 10000
+An account number must be 1000 - 9999. Enter again: 999
+An account number must be 1000 - 9999. Enter again: 1234
+
+Enter a month: 0
+A month must be 1 - 12. Enter again: 13
+A month must be 1 - 12. Enter again: 2
+
+Enter a day: 0
+A day must be 1 - 31. Enter again: 32
+A day must be 1 - 31. Enter again: 22
+
+Enter a year: 1999
+A year must be 2000 - 2100. Enter again: 2101
+A year must be 2000 - 2100. Enter again: 2018
+
+Enter a county code. Enter S, O or L: A
+Invalid county code. Enter uppercase S, O or L: s
+Invalid county code. Enter uppercase S, O or L: S
+
+Do you want to order an item? Enter Y or N: X
+Invalid response. Enter uppercase Y or N: A
+Invalid response. Enter uppercase Y or N: Y
+
+Enter a price: -0.99
+A price must be between 0.00 and 999.99. Enter again: 1000.01
+A price must be between 0.00 and 999.99. Enter again: 45.55
+
+Enter a weight: 100
+A weight must be between 0 and 99. Enter again: -1
+A weight must be between 0 and 99. Enter again: 10
+
+Do you want to order an item? Enter Y or N: y
+Invalid response. Enter uppercase Y or N: Y
+
+Enter a price: 100.00
+
+Enter a weight: 12
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 90.20
+
+Enter a weight: 6
+
+Do you want to order an item? Enter Y or N: n
+Invalid response. Enter uppercase Y or N: N
+
+ACCOUNT NUMBER                          COUNTY
+1234                                    San Diego County
+
+DATE OF SALE 2/22/2018
+
+TOTAL SALE AMOUNT:  $  235.75
+DISCOUNT:           $   11.79
+SALES TAX:          $   18.27
+SHIPPING:           $    5.30
+TOTAL DUE:          $  247.53
+
+[perez490@empress CS111]$ ./a.out
+Enter an account number: 2345
+
+Enter a month: 6
+
+Enter a day: 15
+
+Enter a year: 2017
+
+Enter a county code. Enter S, O or L: L
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 157.50
+
+Enter a weight: 15
+
+Do you want to order an item? Enter Y or N: N
+
+ACCOUNT NUMBER                          COUNTY
+2345                                    LA County
+
+DATE OF SALE 6/15/2017
+
+TOTAL SALE AMOUNT:  $  157.50
+DISCOUNT:           $   15.75
+SALES TAX:          $   12.99
+SHIPPING:           $    5.00
+TOTAL DUE:          $  159.74
+
+[perez490@empress CS111]$ ./a.out
+Enter an account number: 6754
+
+Enter a month: 12
+
+Enter a day: 24
+
+Enter a year: 2017
+
+Enter a county code. Enter S, O or L: O
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 100.00
+
+Enter a weight: 20
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 100.00
+
+Enter a weight: 20
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 100.00
+
+Enter a weight: 20
+
+Do you want to order an item? Enter Y or N: Y
+
+Enter a price: 150.00
+
+Enter a weight: 15
+
+Do you want to order an item? Enter Y or N: N
+
+ACCOUNT NUMBER                          COUNTY
+6754                                    Orange County
+
+DATE OF SALE 12/24/2017
+
+TOTAL SALE AMOUNT:  $  450.00
+DISCOUNT:           $   67.50
+SALES TAX:          $   34.88
+SHIPPING:           $    9.25
+TOTAL DUE:          $  426.62
+

@@ -1,0 +1,23 @@
+Stars.cpp outputs
+
+
+[perez490@empress CS111]$ ./a.out
+n = 3
+  *
+ **
+***
+
+[perez490@empress CS111]$ ./a.out
+n = 10
+         *
+        **
+       ***
+      ****
+     *****
+    ******
+   *******
+  ********
+ *********
+**********
+
+[perez490@empress CS111]$

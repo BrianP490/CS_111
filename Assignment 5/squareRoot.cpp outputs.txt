@@ -1,0 +1,35 @@
+
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 0
+Enter a positive integer number between 1 and 9000000: 9000001
+Enter a positive integer number between 1 and 9000000: 8
+Start at 3
+The square root of 8 is 2.82843
+The square of the square root is 8
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 10
+Start at 3
+The square root of 10 is 3.16228
+The square of the square root is 10
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 25
+5 is the square root of 25
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 777
+Start at 28
+The square root of 777 is 27.8747
+The square of the square root is 777
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 1
+1 is the square root of 1
+
+[perez490@empress CS111]$ ./a.out
+Enter a positive integer number that you want to find the square root for: 9000000
+3000 is the square root of 9000000
+
+[perez490@empress CS111]$

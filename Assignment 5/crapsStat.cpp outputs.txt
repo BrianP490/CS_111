@@ -1,0 +1,49 @@
+
+
+How many games do you want to play?: 100
+     Win %    Lose %
+    46.000    54.000
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 100
+     Win %    Lose %
+    44.000    56.000
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 100
+     Win %    Lose %
+    51.000    49.000
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 10000
+     Win %    Lose %
+    49.500    50.500
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 10000
+     Win %    Lose %
+    49.670    50.330
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 10000
+     Win %    Lose %
+    49.200    50.800
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 1000000
+     Win %    Lose %
+    49.275    50.725
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 1000000
+     Win %    Lose %
+    49.320    50.680
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 1000000
+     Win %    Lose %
+    49.333    50.667
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 100000000
+     Win %    Lose %
+    49.304    50.696
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 100000000
+     Win %    Lose %
+    49.293    50.707
+[perez490@empress CS111]$ ./a.out
+How many games do you want to play?: 100000000
+     Win %    Lose %
+    49.293    50.707

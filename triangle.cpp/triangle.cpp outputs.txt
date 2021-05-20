@@ -1,0 +1,40 @@
+[perez490@empress CS111]$ g++ triangle.cpp
+[perez490@empress CS111]$ ./a.out
+
+*******************************
+This program will ask you to enter 3 points of a triangle and tell what kind of triangle it is. Please hit ENTER to continue.
+*******************************
+
+Point 1
+        Enter the x-cordinate: 0
+        Enter the y-cordinate: 0
+
+Point 2
+        Enter the x-cordinate: 4
+        Enter the y-cordinate: 0
+
+Point 3
+        Enter the x-cordinate: 2
+        Enter the y-cordinate: 5
+
+This triangle is isosceles
+
+[perez490@empress CS111]$ ./a.out
+
+*******************************
+This program will ask you to enter 3 points of a triangle and tell what kind of triangle it is. Please hit ENTER to continue.
+*******************************
+
+Point 1
+        Enter the x-cordinate: 0
+        Enter the y-cordinate: 0
+
+Point 2
+        Enter the x-cordinate: 3
+        Enter the y-cordinate: 0
+
+Point 3
+        Enter the x-cordinate: 2
+        Enter the y-cordinate: 5
+
+This triangle is scalene

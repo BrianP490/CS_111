@@ -1,0 +1,26 @@
+
+
+[perez490@empress CS111]$ ./a.out
+Enter the number of jars sold for mild: -1
+        Invalid. Enter a number between 0 and 1000000: 1000001
+        Invalid. Enter a number between 0 and 1000000: 100
+
+Enter the number of jars sold for medium: 500
+
+Enter the number of jars sold for sweet: 0
+
+Enter the number of jars sold for hot: 250
+
+Enter the number of jars sold for zesty: 1000
+
+mild        100
+medium      500
+sweet         0
+hot         250
+zesty      1000
+
+The total number of jars sold is 1850
+The highest selling type is zesty
+The lowest selling type is sweet
+
+[perez490@empress CS111]$
